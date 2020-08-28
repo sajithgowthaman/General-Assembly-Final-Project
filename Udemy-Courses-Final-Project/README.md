@@ -1,6 +1,6 @@
 # Udemy Courses Analysis Final Project
 
-![0*ck19RC019ErjyQ7i](https://user-images.githubusercontent.com/55968160/91507702-4771e980-e88a-11ea-9bb3-bcf6ee176c9c.png)
+<img src= "https://user-images.githubusercontent.com/55968160/91507702-4771e980-e88a-11ea-9bb3-bcf6ee176c9c.png" alt="Udemy" width = "1000" height = "400">
 
 ## Introduction
 
