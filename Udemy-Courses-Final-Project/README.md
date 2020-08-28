@@ -1,5 +1,7 @@
 # Udemy Courses Analysis Final Project
 
+![0*ck19RC019ErjyQ7i](https://user-images.githubusercontent.com/55968160/91507702-4771e980-e88a-11ea-9bb3-bcf6ee176c9c.png)
+
 ## Introduction
 
 This is the introduction to my final project on analyzing the courses offered in Udemy.
