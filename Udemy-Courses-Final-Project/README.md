@@ -1,7 +1,5 @@
 # Udemy Courses Analysis Final Project
 
-<img src= "https://user-images.githubusercontent.com/55968160/91507702-4771e980-e88a-11ea-9bb3-bcf6ee176c9c.png" alt="Udemy" width = "1000" height = "400">
-
 ## Introduction
 
 This is the introduction to my final project on analyzing the courses offered in Udemy.
@@ -19,7 +17,12 @@ This is the introduction to my final project on analyzing the courses offered in
 | content_duration | Duration of the course (in hours) |
 | subject | Subjects that the courses belong to |
 
-Keep writing more stuff here!
+To begin with, I will be analyzing the data that contains information about courses offered in Udemy. I have produced actionable strategies that will benefit users, lecturers and Udemy themselves by wrangling and mining data. 
+
+In order to improve the customer experience, a recommender model is built to show users the top rated courses based on their input.
+
+Tech used: Pandas, Numpy, Seaborn, Wordcloud, Matplotlib.
+
 
 ## Important Links
 
